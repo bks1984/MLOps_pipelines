@@ -1,4 +1,4 @@
-# MLOps_pipelines
+# MLOps_pipelines Deployement for a classifier Model on Heathcare
 **Problem Statement:**
 A healthcare clinic is looking to enhance its decision-making process for predicting the likelihood of diabetes in patients based on a set of health-related attributes. Diabetes is a growing concern, especially among certain age groups and populations with risk factors such as high blood pressure, obesity, and a sedentary lifestyle. The clinic has collected patient data, including metrics like plasma glucose concentration, blood pressure, body mass index (BMI), and others, which can be used to predict diabetes. However, they struggle with accurately identifying high-risk patients who may need further medical intervention or lifestyle changes.
 
