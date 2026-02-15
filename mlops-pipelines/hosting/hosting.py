@@ -1,4 +1,3 @@
-%%writefile mlops-pipelines/hosting/hosting.py
 from huggingface_hub import HfApi
 import os
 
